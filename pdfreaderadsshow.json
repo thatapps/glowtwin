@@ -1,5 +1,6 @@
 {
 	
-	"InterstitialADShow":         			"no"
+	"InterstitialADShow":         			"no",
+	"AppOpenADShow":				"no"
 	
 }
