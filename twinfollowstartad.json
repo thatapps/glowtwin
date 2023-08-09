@@ -1,5 +1,6 @@
 {
 	
-	"ShowStartAds":         			"yes"
-	
+	"CustomAdsShow":				            "yes",
+	"SyncAdsShow":					    "no",
+	"InAppPurchaseShow":					    "no"
 }
