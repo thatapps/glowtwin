@@ -1,6 +1,6 @@
 {
 	
-	"CustomAdsShow":				            "yes",
+	"CustomAdsShow":				            "no",
 	"SyncAdsShow":					    "no",
 	"InAppPurchaseShow":					    "no"
 }
