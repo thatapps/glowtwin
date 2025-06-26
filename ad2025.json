@@ -4,5 +4,6 @@
   "text": "Check out this amazing product now!",
   "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
   "buttonText": "Buy Now",
-  "buttonLink": ""
+  "buttonLink": "https://yourwebsite.com/product-page",
+  "rating": 4
 }
