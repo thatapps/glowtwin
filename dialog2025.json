@@ -1,5 +1,5 @@
 {
-  "showDialog": true,
+  "showDialog": false,
   "title": "Welcome!",
   "text": "Check out our latest features.",
   "imageUrl": "",
