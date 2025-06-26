@@ -1,8 +1,8 @@
 {
-  "showDialog": true,
+  "showDialog": false,
   "title": "Welcome!",
   "text": "Check out our latest features.",
   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
   "buttonText": "Learn More",
-  "buttonLink": "https://followtech.in/"
+  "buttonLink": ""
 }
