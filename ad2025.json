@@ -1,10 +1,10 @@
 {
-  "visible": false,
+  "visible": true,
   "title": "Awesome Product",
   "text": "Check out this amazing product now!",
   "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
   "buttonText": "Buy Now",
   "buttonLink": "https://yourwebsite.com/product-page",
   "rating": 4,
-  "showStartAppBanner": true
+  "showStartAppBanner": false
 }
