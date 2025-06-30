@@ -1,5 +1,5 @@
 {
-  "show_admob_native_ad": false,
+  "show_admob_native_ad": true,
   "show_custom_native_ad": false,
-  "show_startapp_banner" : true
+  "show_startapp_banner" : false
 }
