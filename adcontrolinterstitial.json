@@ -1,10 +1,10 @@
 {
   "show_admob_interstitial": false,
-  "show_custom_interstitial": true,
+  "show_custom_interstitial": false,
   "title": "Special Sale!",
   "description": "Get 50% off on all items.",
-  "image_url": "https://example.com/image.png",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
   "background_color": "#FF5722",
   "button_text": "Shop Now",
-  "button_link": "https://example.com/shop"
+  "button_link": "https://play.google.com/store/apps/details?id=get.unfollowers.followers.instagram.tracker"
 }
