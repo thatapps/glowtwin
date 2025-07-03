@@ -1,5 +1,5 @@
 {
-  "show_admob_interstitial": false,
+  "show_admob_interstitial": true,
   "show_custom_interstitial": false,
   "title": "Special Sale!",
   "description": "Get 50% off on all items.",
