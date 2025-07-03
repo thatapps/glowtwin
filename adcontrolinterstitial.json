@@ -1,6 +1,6 @@
 {
-  "show_admob_interstitial": true,
-  "show_custom_interstitial": false,
+  "show_admob_interstitial": false,
+  "show_custom_interstitial": true,
   "title": "Special Sale!",
   "description": "Get 50% off on all items.",
   "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
