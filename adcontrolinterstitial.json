@@ -1,0 +1,10 @@
+{
+  "show_admob_interstitial": false,
+  "show_custom_interstitial": true,
+  "title": "Special Sale!",
+  "description": "Get 50% off on all items.",
+  "image_url": "https://example.com/image.png",
+  "background_color": "#FF5722",
+  "button_text": "Shop Now",
+  "button_link": "https://example.com/shop"
+}
