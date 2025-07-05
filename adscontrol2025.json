@@ -1,5 +1,17 @@
 {
-  "show_admob_native_ad": false,
-  "show_custom_native_ad": true,
-  "show_startapp_banner" : false
+  "adConfig": {
+    "show_admob_native_ad": false,
+    "show_custom_native_ad": true,
+    "show_startapp_banner": false
+  },  
+  "interstitialAd": {
+    "show_admob_interstitial": false,
+    "show_custom_interstitial": true,
+    "title": "Special Sale!",
+    "description": "Get 50% off on all items.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
+    "background_color": "#FF5722",
+    "button_text": "Shop Now",
+    "button_link": "https://play.google.com/store/apps/details?id=get.unfollowers.followers.instagram.tracker"
+  }
 }
