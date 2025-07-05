@@ -1,12 +1,12 @@
 {
   "adConfig": {
-    "show_admob_native_ad": false,
-    "show_custom_native_ad": true,
+    "show_admob_native_ad": true,
+    "show_custom_native_ad": false,
     "show_startapp_banner": false
   },  
   "interstitialAd": {
-    "show_admob_interstitial": false,
-    "show_custom_interstitial": true,
+    "show_admob_interstitial": true,
+    "show_custom_interstitial": false,
     "title": "Special Sale!",
     "description": "Get 50% off on all items.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
