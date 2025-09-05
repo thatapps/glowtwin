@@ -1,0 +1,16 @@
+{
+  "primarySite": {
+    "url": "https://snapinsta.to/en",
+    "inputScript": "document.getElementById('s_input').value = '%s';",
+    "clickScript": "document.querySelector('button.btn.btn-default').click();",
+    "selectorCountScript": "document.querySelectorAll('a.abutton.btn-premium').length",
+    "selector": "a.abutton.btn-premium"
+  },
+  "backupSite": {
+    "url": "https://snapsave.app/download-video-instagram",
+    "inputScript": "document.getElementById('url').value = '%s';",
+    "clickScript": "document.querySelector('button.is-download').click();",
+    "selectorCountScript": "document.querySelectorAll('a.button.is-success').length",
+    "selector": "a.button.is-success"
+  }
+}
