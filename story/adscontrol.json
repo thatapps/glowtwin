@@ -1,0 +1,51 @@
+{
+
+ // Main
+    "banner_enabled_main": true,
+    "native_enabled_main": true,
+     "interstitial_enabled_main": true,
+      "app_open_enabled_main": true,
+       "banner_ad_unit_id": "ca-app-pub-6264397123968867/7269648484",
+        "native_ad_unit_id": "ca-app-pub-6264397123968867/4452107714",
+         "interstitial_ad_unit_id": "ca-app-pub-6264397123968867/8391352726",
+          "app_open_ad_unit_id": "ca-app-pub-6264397123968867/4327737215",
+
+          //LoginMain
+            "banner_enabled_login_main": true,
+            "banner_ad_unit_id_login_main": "ca-app-pub-6264397123968867/7269648484",
+            "native_enabled_login_main": true,
+            "native_ad_unit_id_login_main": "ca-app-pub-6264397123968867/4452107714",
+            "interstitial_enabled_login_main": true,
+            "interstitial_ad_unit_id_login_main": "ca-app-pub-6264397123968867/8391352726",
+
+            //Saved Post
+            "banner_enabled_saved_post": true,
+             "native_enabled_saved_post": true,
+             "interstitial_enabled_saved_post": true,
+
+             //Downloads Private
+              "banner_enabled_downloads_private": true,
+             "native_enabled_downloads_private": true,
+             "interstitial_enabled_downloads_private": true,
+             "banner_ad_unit_id_downloads_private": "ca-app-pub-6264397123968867/7269648484",
+             "native_ad_unit_id_downloads_private": "ca-app-pub-6264397123968867/4452107714",
+             "interstitial_ad_unit_id_downloads_private": "ca-app-pub-6264397123968867/7499667790",
+
+            // Downloads Public
+            "banner_enabled_downloads_public": true,
+            "banner_ad_unit_id_downloads_public": "ca-app-pub-6264397123968867/7269648484",
+            "native_enabled_downloads_public": true,
+            "native_ad_unit_id_downloads_public": "ca-app-pub-6264397123968867/4452107714",
+            "interstitial_enabled_downloads_public": true,
+             "interstitial_ad_unit_id_downloads_public": "ca-app-pub-6264397123968867/7499667790",
+
+             // FullScreen
+
+             "banner_enabled_fullscreen": true,
+             "banner_ad_unit_id_fullscreen": "ca-app-pub-6264397123968867/7269648484",
+             "native_enabled_fullscreen": true,
+             "native_ad_unit_id_fullscreen": "ca-app-pub-6264397123968867/4452107714",
+             "interstitial_enabled_fullscreen": true,
+             "interstitial_ad_unit_id_fullscreen": "ca-app-pub-6264397123968867/7499667790"
+
+          }
