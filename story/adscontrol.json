@@ -46,6 +46,13 @@
              "native_enabled_fullscreen": true,
              "native_ad_unit_id_fullscreen": "ca-app-pub-6264397123968867/4452107714",
              "interstitial_enabled_fullscreen": true,
-             "interstitial_ad_unit_id_fullscreen": "ca-app-pub-6264397123968867/7499667790"
+             "interstitial_ad_unit_id_fullscreen": "ca-app-pub-6264397123968867/7499667790",
+             
+             // Exit
+
+             "banner_enabled_exit": true,
+             "banner_ad_unit_id_exit": "ca-app-pub-6264397123968867/7269648484",
+             "native_enabled_exit": false,
+             "native_ad_unit_id_exit": "ca-app-pub-6264397123968867/4452107714"
 
           }
