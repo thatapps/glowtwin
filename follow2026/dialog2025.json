@@ -1,0 +1,26 @@
+{
+  "showDialogLogin": false,
+  "showDialogMain": false,
+  "dialogClosedVisible": true,
+  "languages": {
+    "en": {
+      "title": "Welcome",
+      "text": "Hello, welcome!",
+      "buttonText": "OK",
+      "dialogClosedText": "Close"
+    },
+    "de": {
+      "title": "Willkommen",
+      "text": "Hallo, willkommen!",
+      "buttonText": "OK",
+      "dialogClosedText": "Schließen"
+    }
+  },
+  "imageUrl": "https://example.com/image.jpg",
+  "buttonLink": "https://example.com",
+  "highlight_search": true,
+  "primaryUrl": "https://iproyal.com/ip-lookup/",
+  "backupUrl": "https://www.iplocation.net/",
+  "listUpdateThresholdHours": "12",
+  "enableCheckLocation": false
+}
