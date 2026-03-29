@@ -1,5 +1,5 @@
 { 
-    "version": "1.36", 
+    "version": "1.17", 
     "messages": {
         "en": [ "<b>What's New</b>", "<ul><li>Important Update</li><li>New Reminder To Sync In Notification</li><li>Downloads And Sync Speed Improved</li><li>Stories Issues Fixed</li><li>App Speed Improved</li><li>Bugs Fixed</li><li>Theme Option In Menu</li><li>Language And Theme Option In Menu</li></ul>" ],
         "de": [ "<b>Was gibt's Neues</b>", "<ul><li>Wichtiges Update</li><li>Neue Synchronisierungserinnerung in den Benachrichtigungen</li><li>Download- und Synchronisierungsgeschwindigkeit verbessert</li><li>Probleme mit Stories behoben</li><li>App-Geschwindigkeit verbessert</li><li>Fehler behoben</li><li>Sprach- und Design-Optionen im Menü</li><li>Sprachoption im Menü</li></ul>" ],
