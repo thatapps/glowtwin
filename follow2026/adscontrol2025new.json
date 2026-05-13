@@ -1,8 +1,21 @@
 {
   "adConfig": {
+    "show_native_login": true,
+    "show_native_main": true,
+    "show_native_list": false,
+    "show_native_interaction": false,
+    "show_native_post": true,
+    
+    "show_native_feed_ad": true,
     "show_admob_native_ad": true,
     "show_custom_native_ad": false,
-    "show_startapp_banner": false
+    "show_startapp_banner": false,
+    
+    
+     "is_insight_unlocked": true, // False means it will show dialog
+     "show_mass_unfollow": true,  //Show Mass Unfollow in Lists
+     
+    "show_reward_ad_profile_visitors": true
   },  
   "interstitialAd": {
     "show_admob_interstitial": true,
