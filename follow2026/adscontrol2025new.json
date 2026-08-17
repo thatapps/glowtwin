@@ -14,8 +14,15 @@
     
      "is_insight_unlocked": true, // False means it will show dialog
      "show_mass_unfollow": true,  //Show Mass Unfollow in Lists
+
+//Premium
+"show_post_type_insights": false,
+"show_hall_of_fame": false,
+"show_format_performance": false,
+"show_audit_tip": false,
+"show_audit_breakdown": false,
      
-    "show_reward_ad_profile_visitors": true
+"show_reward_ad_profile_visitors": true
   },  
   "interstitialAd": {
     "show_admob_interstitial": true,
