@@ -8,6 +8,7 @@
     
     "show_native_feed_ad": true,
     "show_admob_native_ad": true,
+    "show_admob_collapsible_banner": true,
     "show_custom_native_ad": false,
     "show_startapp_banner": false,
     
