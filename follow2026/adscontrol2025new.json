@@ -1,6 +1,6 @@
 {
   "adConfig": {
-    "show_native_login": true,
+    "show_native_login": false,
     "show_native_main": true,
     "show_native_list": false,
     "show_native_interaction": false,
