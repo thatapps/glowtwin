@@ -5,6 +5,7 @@
     "show_native_list": false,
     "show_native_interaction": false,
     "show_native_post": true,
+    "show_native_fullscreen_image": true,
     
     "show_native_feed_ad": true,
     "show_admob_native_ad": true,
@@ -15,6 +16,11 @@
     
      "is_insight_unlocked": true, // False means it will show dialog
      "show_mass_unfollow": true,  //Show Mass Unfollow in Lists
+
+    //Controllers for Account Health & Growth Strategy
+    "show_health_guide_main_menu": true,
+    "show_health_guide_login": false,
+    "show_health_guide_bulk": false,
 
 //Premium
 "show_post_type_insights": false,
