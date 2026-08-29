@@ -23,11 +23,11 @@
     "show_health_guide_bulk": false,
 
 //Premium
-"show_post_type_insights": true,
-"show_hall_of_fame": true,
-"show_format_performance": true,
-"show_audit_tip": true,
-"show_audit_breakdown": true,
+"show_post_type_insights": false,
+"show_hall_of_fame": false,
+"show_format_performance": false,
+"show_audit_tip": false,
+"show_audit_breakdown": false,
      
 "show_reward_ad_profile_visitors": true
   },  
