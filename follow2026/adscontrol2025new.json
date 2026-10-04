@@ -54,6 +54,18 @@
      // interstitialAd Load Controllers For Story
     "story_back_press_interval": 2,
     "story_cooldown_seconds": 30,
+
+       /* 
+      failed_load_cooldown_seconds: 
+      -------------------------------------------------------------------------
+      Cooldown delay (in seconds) after an ad fails to load (No Fill / Network Error)
+      before allowing another load request to AdMob.
+      
+      - Prevents request spamming during no-fill windows.
+      - Recommended Range: 15 to 60 seconds (Default = 30).
+      - Set to 0 to disable failure rate-limiting.
+    */
+    "failed_load_cooldown_seconds": 30, 
     
     "title": { 
 "en": "Instagram Downloader", 
