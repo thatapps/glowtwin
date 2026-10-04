@@ -29,13 +29,31 @@
 "show_audit_tip": false,
 "show_audit_breakdown": false,
      
-"show_reward_ad_profile_visitors": true
+"show_reward_ad_profile_visitors": true,
+
+  "disable_appopen_first_time": true,   // AppOpen Ads First Time Not Show If True
+    
+       // Dual Rating Controllers
+    
+    "sync_has_rated": true  //Shared State: One 5-star rating disables ALL rating prompts across the entire app.
+  //  "sync_has_rated": false //Independent State: RateDialog (lists) and RatingStarDialog (backpress) run separately
   },  
   "interstitialAd": {
     "show_admob_interstitial": true,
     "show_custom_interstitial": false,
     "show_custom_interstitialAd_Failed": true,
     "show_StartApp_interstitialAd": false,
+
+
+       // interstitialAd Load Controllers
+    "back_press_interval": 1,
+    "cooldown_seconds": 30,
+    "max_ads_per_session": 0,
+    
+    
+     // interstitialAd Load Controllers For Story
+    "story_back_press_interval": 2,
+    "story_cooldown_seconds": 30,
     
     "title": { 
 "en": "Instagram Downloader", 
