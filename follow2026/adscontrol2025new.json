@@ -29,7 +29,7 @@
 "show_audit_tip": false,
 "show_audit_breakdown": false,
      
-"show_reward_ad_profile_visitors": false
+"show_reward_ad_profile_visitors": true
   },  
   "interstitialAd": {
     "show_admob_interstitial": true,
