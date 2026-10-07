@@ -2,13 +2,13 @@
   "adConfig": {
     "show_native_login": false,
     "show_native_main": true,
-    "show_native_list": false,
-    "show_native_interaction": false,
+    "show_native_list": true,
+    "show_native_interaction": true,
     "show_native_post": true,
     "show_native_fullscreen_image": true,
     
     "show_native_feed_ad": false,
-    "show_admob_native_ad": false,
+    "show_admob_native_ad": true,
     "show_admob_collapsible_banner": true,
     "show_custom_native_ad": false,
     "show_startapp_banner": false,
