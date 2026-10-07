@@ -12,6 +12,9 @@
     "show_admob_collapsible_banner": true,
     "show_custom_native_ad": false,
     "show_startapp_banner": false,
+
+    // Set to false to disable asking notification permission on app entry
+    "show_notification_permission": false,
     
     
      "is_insight_unlocked": true, // False means it will show dialog
@@ -29,7 +32,7 @@
 "show_audit_tip": false,
 "show_audit_breakdown": false,
      
-"show_reward_ad_profile_visitors": true,
+"show_reward_ad_profile_visitors": false,
 
   "disable_appopen_first_time": true,   // AppOpen Ads First Time Not Show If True
     
@@ -55,17 +58,46 @@
     "story_back_press_interval": 2,
     "story_cooldown_seconds": 30,
 
-       /* 
-      failed_load_cooldown_seconds: 
+  
+     /*  enable_app_launch_interstitial_preload (true / false):
       -------------------------------------------------------------------------
-      Cooldown delay (in seconds) after an ad fails to load (No Fill / Network Error)
-      before allowing another load request to AdMob.
+      Toggles whether App.java preloads 1 global Interstitial Ad in the background 
+      on cold start boot.
       
-      - Prevents request spamming during no-fill windows.
-      - Recommended Range: 15 to 60 seconds (Default = 30).
-      - Set to 0 to disable failure rate-limiting.
+      - Set to true (Default): Preloads on app boot for instant 0ms playback on first back-press.
+      - Set to false: Disables cold-start preloading on app boot. Sub-activities 
+        (ListActivity, DpView, Stories) will load ads on-demand when opened.
     */
-    "failed_load_cooldown_seconds": 30, 
+    "enable_app_launch_interstitial_preload": false,
+
+
+
+    /* 
+      ================================================-------------------------
+      INTERSTITIAL AD PRELOAD & RETRY OPTIMIZATION CONTROLS
+      ================================================-------------------------
+
+      1. enable_delayed_preload (true / false):
+         - Toggles whether to delay preloading the next interstitial ad until 
+           near the end of the cooldown period (instead of downloading immediately).
+         - Eliminates thousands of wasted background ad requests for quick-exit users.
+         - Default: true
+
+      2. delayed_preload_buffer_seconds (integer seconds):
+         - Buffer time (in seconds) BEFORE the cooldown expires to start downloading.
+         - Example: If cooldown_seconds = 30 and buffer = 5, the next ad starts 
+           downloading at 25s (30s - 5s). By 30s, the ad is 100% cached for instant 0ms playback!
+         - Recommended Range: 3 to 8 seconds (Default = 5).
+
+      3. failed_load_cooldown_seconds (integer seconds):
+         - Cooldown delay (in seconds) after an ad fails to load (No Fill / Network Error)
+           before allowing another load request to AdMob.
+         - Prevents retry request loops/spamming during no-fill windows (Google AdMob Policy Best Practice).
+         - Recommended Range: 15 to 60 seconds (Default = 30).
+    */
+    "enable_delayed_preload": true,
+    "delayed_preload_buffer_seconds": 5,
+    "failed_load_cooldown_seconds": 30,
     
     "title": { 
 "en": "Instagram Downloader", 
