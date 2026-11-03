@@ -13,6 +13,38 @@
     "show_custom_native_ad": false,
     "show_startapp_banner": false,
 
+
+      // Controls visibility of "Sync Interactions (Likes & Comments)" in the Sync popup menu
+    "show_sync_interaction": false,
+
+    // Controls visibility of "Sync All (Recommended)" in the Sync popup menu
+    "show_sync_all": false,
+
+    // Controls visibility of the "Interaction Analysis" section and list on Main View
+    "show_interaction_analysis": false,
+
+    // Controls visibility of the "Posts Analysis" section and list on Main View
+    "show_post_analysis": false,
+
+    // Controls visibility of the "Engagement Rate Score" card/banner on Main View
+    "show_engagement_rate_score": false,
+
+    // Controls visibility of the "Highlights" quick action button on the main dashboard
+    "show_highlights": false,
+
+    // Controls visibility of the "Stories" quick action chip button (@+id/stories_search) on Main View
+    "show_watch_stories": true,
+
+    // Controls visibility of the horizontal Stories Tray (@+id/story_re) and header (@+id/storieslabel) on Main View
+    "show_stories_tray": true,
+
+    // Master toggle: true to allow story fetching from network/database, false to disable all story loading
+    "enable_story_loading": true,
+    
+    // Cooldown in minutes between background Instagram story API refreshes (prevents rate limits / 429 errors)
+    "story_refresh_cooldown_minutes": 5,
+
+
     // Set to false to disable asking notification permission on app entry
     "show_notification_permission": false,
     
