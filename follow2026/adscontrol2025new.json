@@ -33,13 +33,13 @@
     "show_highlights": false,
 
     // Controls visibility of the "Stories" quick action chip button (@+id/stories_search) on Main View
-    "show_watch_stories": false,
+    "show_watch_stories": true,
 
     // Controls visibility of the horizontal Stories Tray (@+id/story_re) and header (@+id/storieslabel) on Main View
-    "show_stories_tray": false,
+    "show_stories_tray": true,
 
     // Master toggle: true to allow story fetching from network/database, false to disable all story loading
-    "enable_story_loading": false,
+    "enable_story_loading": true,
     
     // Cooldown in minutes between background Instagram story API refreshes (prevents rate limits / 429 errors)
     "story_refresh_cooldown_minutes": 5,
