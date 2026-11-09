@@ -15,19 +15,19 @@
 
 
       // Controls visibility of "Sync Interactions (Likes & Comments)" in the Sync popup menu
-    "show_sync_interaction": false,
+    "show_sync_interaction": true,
 
     // Controls visibility of "Sync All (Recommended)" in the Sync popup menu
-    "show_sync_all": false,
+    "show_sync_all": true,
 
     // Controls visibility of the "Interaction Analysis" section and list on Main View
-    "show_interaction_analysis": false,
+    "show_interaction_analysis": true,
 
     // Controls visibility of the "Posts Analysis" section and list on Main View
-    "show_post_analysis": false,
+    "show_post_analysis": true,
 
     // Controls visibility of the "Engagement Rate Score" card/banner on Main View
-    "show_engagement_rate_score": false,
+    "show_engagement_rate_score": true,
 
     // Controls visibility of the "Highlights" quick action button on the main dashboard
     "show_highlights": false,
