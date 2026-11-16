@@ -13,6 +13,10 @@
     "show_custom_native_ad": false,
     "show_startapp_banner": false,
 
+      "free_first_followers_sync": true,     // First Followers sync skips the reward ad
+    "free_first_interactions_sync": true, // First Interactions sync skips the reward ad
+    "free_first_all_sync": true,            // First Sync All skips the reward ad
+
 
       // Controls visibility of "Sync Interactions (Likes & Comments)" in the Sync popup menu
     "show_sync_interaction": true,
