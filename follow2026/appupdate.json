@@ -1,177 +1,177 @@
 { 
-  "version": "1.33",
+  "version": "1.34",
   "messages": {
-  "en": [
+   "en": [
     "<b>What's New</b>",
-    "<ul><li>Major Bugs Fixed</li><li>Stories Issue Fixed</li><li>Interaction Sync Issue Fixed</li><li>New Sent Requests</li><li>Enhanced Best Time to Post</li><li>Growth History Dashboard And Charts Added</li><li>Follower Tracker Widget Added</li></ul>"
+    "<ul><li>Major Bugs Fixed</li><li>Stories Issue Fixed</li><li>Followers Sync Issue Fixed</li><li>Interaction Sync Issue Fixed</li><li>New Sent Requests Improved</li><li>Enhanced Best Time to Post</li><li>Growth History Dashboard And Charts Added</li><li>Follower Tracker Widget Added</li></ul>"
   ],
   "de": [
-    "<b>Was gibt's Neues</b>",
-    "<ul><li>Wichtige Fehler behoben</li><li>Problem mit Stories behoben</li><li>Interaktions-Synchronisationsproblem behoben</li><li>Neue gesendete Anfragen</li><li>Verbesserte beste Zeit zum Posten</li><li>Wachstumsverlauf-Dashboard und Diagramme hinzugefügt</li><li>Follower-Tracker-Widget hinzugefügt</li></ul>"
+    "<b>Neuigkeiten</b>",
+    "<ul><li>Schwerwiegende Fehler behoben</li><li>Problem mit Stories behoben</li><li>Problem mit der Follower-Synchronisierung behoben</li><li>Problem mit der Interaktions-Synchronisierung behoben</li><li>Neue gesendete Anfragen verbessert</li><li>Beste Zeit zum Posten optimiert</li><li>Wachstumsverlaufs-Dashboard und Diagramme hinzugefügt</li><li>Follower-Tracker-Widget hinzugefügt</li></ul>"
   ],
   "hi": [
     "<b>नया क्या है</b>",
-    "<ul><li>प्रमुख बग ठीक किए गए</li><li>स्टोरीज़ की समस्या ठीक की गई</li><li>इंटरैक्शन सिंक की समस्या ठीक की गई</li><li>नए भेजे गए अनुरोध</li><li>पोस्ट करने का बेहतर समय</li><li>ग्रोथ हिस्ट्री डैशबोर्ड और चार्ट जोड़े गए</li><li>फ़ॉलोअर ट्रैकर विजेट जोड़ा गया</li></ul>"
+    "<ul><li>प्रमुख बग्स ठीक किए गए</li><li>स्टोरीज़ की समस्या ठीक की गई</li><li>फॉलोअर्स सिंक की समस्या ठीक की गई</li><li>इंटरैक्शन सिंक की समस्या ठीक की गई</li><li>नए भेजे गए अनुरोधों में सुधार किया गया</li><li>पोस्ट करने का सर्वोत्तम समय बेहतर बनाया गया</li><li>ग्रोथ हिस्ट्री डैशबोर्ड और चार्ट जोड़े गए</li><li>फॉलोअर ट्रैकर विजेट जोड़ा गया</li></ul>"
   ],
   "be": [
     "<b>Што новага</b>",
-    "<ul><li>Выпраўлены асноўныя памылкі</li><li>Выпраўлена праблема са Сторыз</li><li>Выпраўлена праблема сінхранізацыі ўзаемадзеянняў</li><li>Новыя адпраўленыя запыты</li><li>Палепшаны аптымальны час для публікацыі</li><li>Дададзены панэль і графікі гісторыі росту</li><li>Дададзены віджэт адсочвання падпісчыкаў</li></ul>"
+    "<ul><li>Выпраўлены сур'ёзныя памылкі</li><li>Выпраўлена праблема з гісторыямі</li><li>Выпраўлена праблема сінхранізацыі падпісчыкаў</li><li>Выпраўлена праблема сінхранізацыі ўзаемадзеянняў</li><li>Палепшаны новыя адпраўленыя запыты</li><li>Палепшаны найлепшы час для публікацыі</li><li>Дададзены панэль гісторыі росту і дыяграмы</li><li>Дададзены віджэт адсочвання падпісчыкаў</li></ul>"
   ],
   "fi": [
     "<b>Mitä uutta</b>",
-    "<ul><li>Suuret virheet korjattu</li><li>Tarina-ongelma korjattu</li><li>Vuorovaikutuksen synkronointiongelma korjattu</li><li>Uudet lähetetyt pyynnöt</li><li>Parannettu paras aika postata</li><li>Kasvuhistorian hallintapaneeli ja kaaviot lisätty</li><li>Seuraajien seurantavid Jeter lisätty</li></ul>"
+    "<ul><li>Merkittävät virheet korjattu</li><li>Tarinoiden ongelma korjattu</li><li>Seuraajien synkronointiongelma korjattu</li><li>Vuorovaikutusten synkronointiongelma korjattu</li><li>Uusia lähetettyjä pyyntöjä parannettu</li><li>Parannettu paras julkaisuaika</li><li>Kasvuhistorian koontinäyttö ja kaaviot lisätty</li><li>Seuraajien seuranta -widget lisätty</li></ul>"
   ],
   "ru": [
     "<b>Что нового</b>",
-    "<ul><li>Исправлены основные ошибки</li><li>Исправлена проблема со Историями</li><li>Исправлена проблема синхронизации взаимодействий</li><li>Новые отправленные запросы</li><li>Улучшено лучшее время для публикации</li><li>Добавлены панель и графики истории роста</li><li>Добавлен виджет отслеживания подписчиков</li></ul>"
+    "<ul><li>Исправлены критические ошибки</li><li>Исправлена проблема с историями</li><li>Исправлена проблема синхронизации подписчиков</li><li>Исправлена проблема синхронизации взаимодействий</li><li>Улучшены новые отправленные запросы</li><li>Улучшено лучшее время для публикации</li><li>Добавлены панель истории роста и графики</li><li>Добавлен виджет отслеживания подписчиков</li></ul>"
   ],
   "pt": [
-    "<b>O que há de novo</b>",
-    "<ul><li>Principais erros corrigidos</li><li>Problema com Stories corrigido</li><li>Problema de sincronização de interação corrigido</li><li>Novas solicitações enviadas</li><li>Melhor horário para postar aprimorado</li><li>Painel e gráficos de histórico de crescimento adicionados</li><li>Widget de rastreamento de seguidores adicionado</li></ul>"
+    "<b>Novidades</b>",
+    "<ul><li>Principais bugs corrigidos</li><li>Problema nos Stories corrigido</li><li>Problema de sincronização de seguidores corrigido</li><li>Problema de sincronização de interações corrigido</li><li>Novas solicitações enviadas aprimoradas</li><li>Melhor horário para postar aprimorado</li><li>Painel de histórico de crescimento e gráficos adicionados</li><li>Widget rastreador de seguidores adicionado</li></ul>"
   ],
   "bg": [
     "<b>Какво ново</b>",
-    "<ul><li>Коригирани основни грешки</li><li>Проблемът със Сторис е коригиран</li><li>Проблемът със синхронизацията на взаимодействията е коригиран</li><li>Нови изпратени заявки</li><li>Подобрено най-добро време за публикуване</li><li>Добавени са табло и диаграми за историята на растежа</li><li>Добавено е уиджет за проследяване на последователи</li></ul>"
+    "<ul><li>Отстранени са сериозни грешки</li><li>Отстранен е проблемът с историите</li><li>Отстранен е проблемът със синхронизирането на последователи</li><li>Отстранен е проблемът със синхронизирането на взаимодействия</li><li>Подобрени са новите изпратени заявки</li><li>Подобрено е най-доброто време за публикуване</li><li>Добавени са табло и графики за историята на растежа</li><li>Добавена е джаджа за проследяване на последователи</li></ul>"
   ],
   "fil": [
     "<b>Ano'ng Bago</b>",
-    "<ul><li>Inayos ang mga Pangunahing Bug</li><li>Inayos ang Isyu sa Mga Kuwento</li><li>Inayos ang Isyu sa Pag-sync ng Interaksyon</li><li>Mga Bagong Ipinadalang Kahilingan</li><li>Pinahusay na Pinakamagandang Oras para Mag-post</li><li>Idinagdag ang Dashboard at Mga Chart ng Kasaysayan ng Paglago</li><li>Idinagdag ang Widget ng Tagasubaybay ng Follower</li></ul>"
+    "<ul><li>Naayos ang Mga Pangunahing Bug</li><li>Naayos ang Isyu sa Stories</li><li>Naayos ang Isyu sa Pag-sync ng Mga Follower</li><li>Naayos ang Isyu sa Pag-sync ng Interaksyon</li><li>Pinahusay ang Mga Bagong Ipinadalang Kahilingan</li><li>Pinahusay na Pinakamagandang Oras sa Pag-post</li><li>Idinagdag ang Growth History Dashboard at Mga Chart</li><li>Idinagdag ang Follower Tracker Widget</li></ul>"
   ],
   "lt": [
     "<b>Kas naujo</b>",
-    "<ul><li>Ištaisytos pagrindinės klaidos</li><li>Ištaisyta „Stories“ problema</li><li>Ištaisyta sąveikos sinchronizavimo problema</li><li>Naujos išsiųstos užklausos</li><li>Patobulintas geriausias laikas skelbti</li><li>Pridėtas augimo istorijos skydelis ir diagramos</li><li>Pridėtas sekėjų sekimo valdiklis</li></ul>"
+    "<ul><li>Ištaisytos pagrindinės klaidos</li><li>Ištaisyta istorijų problema</li><li>Ištaisyta sekėjų sinchronizavimo problema</li><li>Ištaisyta sąveikų sinchronizavimo problema</li><li>Patobulintos naujos išsiųstos užklausos</li><li>Patobulintas geriausias laikas skelbti</li><li>Pridėta augimo istorijos suvestinė ir diagramos</li><li>Pridėtas sekėjų stebėjimo valdiklis</li></ul>"
   ],
   "hr": [
     "<b>Što je novo</b>",
-    "<ul><li>Ispravljene glavne pogreške</li><li>Ispravljen problem s Pričama</li><li>Ispravljen problem sa sinkronizacijom interakcija</li><li>Novi poslani zahtjevi</li><li>Poboljšano najbolje vrijeme za objavu</li><li>Dodana nadzorna ploča i grafikoni povijesti rasta</li><li>Dodana naprava za praćenje pratitelja</li></ul>"
+    "<ul><li>Ispravljene veće pogreške</li><li>Riješen problem s pričama</li><li>Riješen problem sinkronizacije pratitelja</li><li>Riješen problem sinkronizacije interakcija</li><li>Poboljšani novi poslani zahtjevi</li><li>Poboljšano najbolje vrijeme za objavu</li><li>Dodana nadzorna ploča povijesti rasta i grafikoni</li><li>Dodan widget za praćenje pratitelja</li></ul>"
   ],
   "fr": [
-    "<b>Quoi de neuf</b>",
-    "<ul><li>Bugs majeurs corrigés</li><li>Problème de Stories corrigé</li><li>Problème de synchronisation des interactions corrigé</li><li>Nouvelles demandes envoyées</li><li>Meilleur moment pour publier amélioré</li><li>Tableau de bord et graphiques de l'historique de croissance ajoutés</li><li>Widget de suivi des abonnés ajouté</li></ul>"
+    "<b>Nouveautés</b>",
+    "<ul><li>Correction de bugs majeurs</li><li>Problème lié aux stories résolu</li><li>Problème de synchronisation des abonnés résolu</li><li>Problème de synchronisation des interactions résolu</li><li>Amélioration des nouvelles demandes envoyées</li><li>Meilleur moment pour publier amélioré</li><li>Ajout du tableau de bord et des graphiques d'historique de croissance</li><li>Ajout du widget de suivi des abonnés</li></ul>"
   ],
   "hu": [
     "<b>Újdonságok</b>",
-    "<ul><li>Főbb hibák javítva</li><li>Történetek probléma javítva</li><li>Interakció-szinkronizálási hiba javítva</li><li>Új elküldött kérések</li><li>Továbbfejlesztett legjobb időpont a posztolásra</li><li>Növekedési előzmények irányítópult és diagramok hozzáadva</li><li>Követőkövető modul hozzáadva</li></ul>"
+    "<ul><li>Jelentős hibák javítva</li><li>Történetek hibája javítva</li><li>Követők szinkronizálási hibája javítva</li><li>Interakciók szinkronizálási hibája javítva</li><li>Új elküldött kérések továbbfejlesztve</li><li>Továbbfejlesztett legjobb közzétételi idő</li><li>Növekedési előzmények irányítópult és diagramok hozzáadva</li><li>Követőkövető widget hozzáadva</li></ul>"
   ],
   "uk": [
     "<b>Що нового</b>",
-    "<ul><li>Виправлено основні помилки</li><li>Виправлено проблему зі Сторіз</li><li>Виправлено проблему синхронізації взаємодій</li><li>Нові надіслані запити</li><li>Покращено найкращий час для публікації</li><li>Додано панель та графіки історії росту</li><li>Додано віджет відстеження підписників</li></ul>"
+    "<ul><li>Виправлено критичні помилки</li><li>Виправлено проблему з історіями</li><li>Виправлено проблему синхронізації підписників</li><li>Виправлено проблему синхронізації взаємодій</li><li>Покращено нові надіслані запити</li><li>Покращено найкращий час для публікації</li><li>Додано панель історії зростання та графіки</li><li>Додано віджет відстеження підписників</li></ul>"
   ],
   "sk": [
     "<b>Čo je nové</b>",
-    "<ul><li>Opravené hlavné chyby</li><li>Opravený problém s Príbehmi</li><li>Opravený problém so synchronizáciou interakcií</li><li>Nové odoslané žiadosti</li><li>Vylepšený najlepší čas na uverejňovanie</li><li>Pridaný panel a grafy histórie rastu</li><li>Pridaný widget na sledovanie sledovateľov</li></ul>"
+    "<ul><li>Opravené závažné chyby</li><li>Opravený problém s príbehmi</li><li>Opravený problém so synchronizáciou sledovateľov</li><li>Opravený problém so synchronizáciou interakcií</li><li>Vylepšené nové odoslané žiadosti</li><li>Vylepšený najlepší čas na uverejnenie</li><li>Pridaný prehľad histórie rastu a grafy</li><li>Pridaný widget na sledovanie sledovateľov</li></ul>"
   ],
   "sl": [
     "<b>Kaj je novega</b>",
-    "<ul><li>Odpravljene glavne napake</li><li>Odpravljena težava z Zgodbami</li><li>Odpravljena težava s sinhronizacijo interakcij</li><li>Nove poslane zahteve</li><li>Izboljšan najboljši čas za objavo</li><li>Dodana nadzorna plošča in grafikoni zgodovine rasti</li><li>Dodan gradnik za sledenje sledilcem</li></ul>"
+    "<ul><li>Odpravljene večje napake</li><li>Odpravljena težava z zgodbami</li><li>Odpravljena težava s sinhronizacijo sledilcev</li><li>Odpravljena težava s sinhronizacijo interakcij</li><li>Izboljšane nove poslane zahteve</li><li>Izboljšan najboljši čas za objavo</li><li>Dodana nadzorna plošča zgodovine rasti in grafikoni</li><li>Dodan pripomoček za sledenje sledilcem</li></ul>"
   ],
   "ca": [
-    "<b>Què hi ha de nou</b>",
-    "<ul><li>S'han corregit els errors principals</li><li>S'ha corregit el problema de les Històries</li><li>S'ha corregit el problema de sincronització de la interacció</li><li>Noves sol·licituds enviades</li><li>Millor hora per publicar millorada</li><li>S'ha afegit el tauler de control i els gràfics de l'historial de creixement</li><li>S'ha afegit el giny de seguiment de seguidors</li></ul>"
+    "<b>Novetats</b>",
+    "<ul><li>Errors importants corregits</li><li>Problema amb les històries resolt</li><li>Problema de sincronització de seguidors resolt</li><li>Problema de sincronització d'interaccions resolt</li><li>Noves sol·licituds enviades millorades</li><li>Millor hora per publicar optimitzada</li><li>S'han afegit el tauler i els gràfics d'historial de creixement</li><li>S'ha afegit el giny de seguiment de seguidors</li></ul>"
   ],
   "mk": [
-    "<b>Што е ново</b>",
-    "<ul><li>Поправени главни грешки</li><li>Поправен проблемот со Приказни</li><li>Поправен проблемот со синхронизација на интеракцијата</li><li>Нови испратени барања</li><li>Подобрено најдобро време за објавување</li><li>Додадени се контролна табла и графикони за историја на раст</li><li>Додаден е виџет за следење следбеници</li></ul>"
+    "<b>Што има ново</b>",
+    "<ul><li>Поправени се големи грешки</li><li>Решен е проблемот со приказните</li><li>Решен е проблемот со синхронизација на следбеници</li><li>Решен е проблемот со синхронизација на интеракции</li><li>Подобрени се новите испратени барања</li><li>Подобрено е најдоброто време за објавување</li><li>Додадени се контролна табла и графикони за историја на раст</li><li>Додаден е виџет за следење следбеници</li></ul>"
   ],
   "sq": [
     "<b>Çfarë ka të re</b>",
-    "<ul><li>Gabimet kryesore u rregulluan</li><li>Problemi me Storiet u rregullua</li><li>Problemi i sinkronizimit të ndërveprimit u rregullua</li><li>Kërkesat e reja të dërguara</li><li>Koha më e mirë për të postuar e përmirësuar</li><li>Paneli dhe grafikët e historisë së rritjes u shtuan</li><li>U shtua widget-i i gjurmimit të ndjekësve</li></ul>"
+    "<ul><li>U rregulluan gabime madhore</li><li>U rregullua problemi me historitë</li><li>U rregullua problemi i sinkronizimit të ndjekësve</li><li>U rregullua problemi i sinkronizimit të ndërveprimeve</li><li>U përmirësuan kërkesat e reja të dërguara</li><li>U përmirësua koha më e mirë për të postuar</li><li>U shtuan paneli dhe grafikët e historikut të rritjes</li><li>U shtua miniaplikacioni për gjurmimin e ndjekësve</li></ul>"
   ],
   "ml": [
-    "<b>പുതിയ കാര്യങ്ങൾ</b>",
-    "<ul><li>പ്രധാന ബഗ്ഗുകൾ പരിഹരിച്ചു</li><li>സ്റ്റോറീസ് പ്രശ്നം പരിഹരിച്ചു</li><li>ഇന്ററാക്ഷൻ സിങ്ക് പ്രശ്നം പരിഹരിച്ചു</li><li>പുതിയ അയച്ച അഭ്യർത്ഥനകൾ</li><li>പോസ്റ്റ് ചെയ്യാൻ ഏറ്റവും അനുയോജ്യമായ സമയം മെച്ചപ്പെടുത്തി</li><li>വളർച്ചാ ചരിത്ര ഡാഷ്‌ബോർഡും ചാർട്ടുകളും ചേർത്തു</li><li>ഫോളോവർ ട്രാക്കർ വിജറ്റ് ചേർത്തു</li></ul>"
+    "<b>പുതിയതെന്താണ്</b>",
+    "<ul><li>പ്രധാന ബഗുകൾ പരിഹരിച്ചു</li><li>സ്റ്റോറീസ് പ്രശ്നം പരിഹരിച്ചു</li><li>ഫോളോവേഴ്സ് സിങ്ക് പ്രശ്നം പരിഹരിച്ചു</li><li>ഇന്ററാക്ഷൻ സിങ്ക് പ്രശ്നം പരിഹരിച്ചു</li><li>പുതിയ അയച്ച അഭ്യർത്ഥനകൾ മെച്ചപ്പെടുത്തി</li><li>പോസ്റ്റ് ചെയ്യാനുള്ള മികച്ച സമയം മെച്ചപ്പെടുത്തി</li><li>ഗ്രോത്ത് ഹിസ്റ്ററി ഡാഷ്‌ബോർഡും ചാർട്ടുകളും ചേർത്തു</li><li>ഫോളോവർ ട്രാക്കർ വിജറ്റ് ചേർത്തു</li></ul>"
   ],
   "sr": [
     "<b>Шта је ново</b>",
-    "<ul><li>Исправљене главне грешке</li><li>Исправљен проблем са Причама</li><li>Исправљен проблем са синхронизацијом интеракције</li><li>Нови послати захтеви</li><li>Побољшано најбоље време за објављивање</li><li>Додата контролна табла и графикони историје раста</li><li>Додат виџет за праћење пратилаца</li></ul>"
+    "<ul><li>Исправљене велике грешке</li><li>Решен проблем са причама</li><li>Решен проблем синхронизације пратилаца</li><li>Решен проблем синхронизације интеракција</li><li>Побољшани нови послати захтеви</li><li>Побољшано најбоље време за објаву</li><li>Додата контролна табла историје раста и графикони</li><li>Додат виџет за праћење пратилаца</li></ul>"
   ],
   "sv": [
-    "<b>Händelser</b>",
-    "<ul><li>Viktiga buggar har åtgärdats</li><li>Problem med Händelser har åtgärdats</li><li>Problem med interaktionssynkronisering har åtgärdats</li><li>Nya skickade förfrågningar</li><li>Förbättrad bästa tid att publicera</li><li>Kontrollpanel och diagram för tillväxthistorik har lagts till</li><li>Widget för följarspårning har lagts till</li></ul>"
+    "<b>Nyheter</b>",
+    "<ul><li>Större buggar åtgärdade</li><li>Problem med händelser åtgärdat</li><li>Problem med synkronisering av följare åtgärdat</li><li>Problem med synkronisering av interaktioner åtgärdat</li><li>Nya skickade förfrågningar förbättrade</li><li>Förbättrad bästa tid att publicera</li><li>Instrumentpanel och diagram för tillväxthistorik har lagts till</li><li>Widget för följarspårning har lagts till</li></ul>"
   ],
   "ko": [
     "<b>새로운 기능</b>",
-    "<ul><li>주요 버그 수정</li><li>스토리 문제 수정</li><li>상호작용 동기화 문제 수정</li><li>새로운 보낸 요청</li><li>최적의 게시 시간 기능 개선</li><li>성장 기록 대시보드 및 차트 추가</li><li>팔로워 추적器 위젯 추가</li></ul>"
+    "<ul><li>주요 버그 수정</li><li>스토리 문제 해결</li><li>팔로워 동기화 문제 해결</li><li>상호작용 동기화 문제 해결</li><li>새로운 보낸 요청 기능 개선</li><li>최적의 게시 시간 기능 향상</li><li>성장 기록 대시보드 및 차트 추가</li><li>팔로워 추적 위젯 추가</li></ul>"
   ],
   "af": [
-    "<b>Wat's Nuut</b>",
-    "<ul><li>Belangrike foute reggemaak</li><li>Stories-probleem reggemaak</li><li>Interaksie-sinchronisasieprobleem reggemaak</li><li>Nuwe gestuurde versoeke</li><li>Verbeterde beste tyd om te plaas</li><li>Groeigeskiedenis-dashboard en kaarte bygevoeg</li><li>Volgeling-spoorder-widget bygevoeg</li></ul>"
+    "<b>Wat is nuut</b>",
+    "<ul><li>Groot foute reggestel</li><li>Stories-probleem reggestel</li><li>Volgersinkroniseringsprobleem reggestel</li><li>Interaksiesinkroniseringsprobleem reggestel</li><li>Nuwe gestuurde versoeke verbeter</li><li>Beste tyd om te plaas verbeter</li><li>Groeigeskiedenis-kontroleskerm en -grafieke bygevoeg</li><li>Volgernasporingslegstuk bygevoeg</li></ul>"
   ],
   "in": [
-    "<b>Yang Baru</b>",
-    "<ul><li>Bug Utama Diperbaiki</li><li>Masalah Cerita Diperbaiki</li><li>Masalah Sinkronisasi Interaksi Diperbaiki</li><li>Permintaan Terkirim Baru</li><li>Waktu Terbaik untuk Memposting Ditingkatkan</li><li>Dasbor dan Grafik Riwayat Pertumbuhan Ditambahkan</li><li>Widget Pelacak Pengikut Ditambahkan</li></ul>"
+    "<b>Apa yang Baru</b>",
+    "<ul><li>Bug Besar Diperbaiki</li><li>Masalah Cerita Diperbaiki</li><li>Masalah Sinkronisasi Pengikut Diperbaiki</li><li>Masalah Sinkronisasi Interaksi Diperbaiki</li><li>Permintaan Terkirim Baru Ditingkatkan</li><li>Waktu Terbaik untuk Memposting Ditingkatkan</li><li>Dasbor dan Grafik Riwayat Pertumbuhan Ditambahkan</li><li>Widget Pelacak Pengikut Ditambahkan</li></ul>"
   ],
   "ms": [
     "<b>Apa yang Baharu</b>",
-    "<ul><li>Bug Utama Diperbaiki</li><li>Isu Cerita Diperbaiki</li><li>Isu Segerak Interaksi Diperbaiki</li><li>Permintaan Dihantar Baharu</li><li>Masa Terbaik untuk Menyiarkan Ditambah Baik</li><li>Papan Pemuka dan Carta Sejarah Pertumbuhan Ditambah</li><li>Widget Penjejak Pengikut Ditambah</li></ul>"
+    "<ul><li>Pepijat Utama Dibetulkan</li><li>Isu Cerita Dibetulkan</li><li>Isu Penyegerakan Pengikut Dibetulkan</li><li>Isu Penyegerakan Interaksi Dibetulkan</li><li>Permintaan Dihantar Baharu Dipertingkatkan</li><li>Masa Terbaik untuk Siaran Dipertingkatkan</li><li>Papan Pemuka dan Carta Sejarah Pertumbuhan Ditambah</li><li>Widget Penjejak Pengikut Ditambah</li></ul>"
   ],
   "el": [
     "<b>Τι νέο υπάρχει</b>",
-    "<ul><li>Διορθώθηκαν σημαντικά σφάλματα</li><li>Διορθώθηκε το πρόβλημα με τις Ιστορίες</li><li>Διορθώθηκε το πρόβλημα συγχρονισμού αλληλεπίδρασης</li><li>Νέα απεσταλμένα αιτήματα</li><li>Βελτιώθηκε η καλύτερη ώρα για δημοσίευση</li><li>Προστέθηκε πίνακας ελέγχου και γραφήματα ιστορικού ανάπτυξης</li><li>Προστέθηκε γραφικό στοιχείο παρακολούθησης ακόλουθων</li></ul>"
+    "<ul><li>Διορθώθηκαν σημαντικά σφάλματα</li><li>Διορθώθηκε το πρόβλημα με τις ιστορίες</li><li>Διορθώθηκε το πρόβλημα συγχρονισμού ακολούθων</li><li>Διορθώθηκε το πρόβλημα συγχρονισμού αλληλεπιδράσεων</li><li>Βελτιώθηκαν τα νέα απεσταλμένα αιτήματα</li><li>Βελτιώθηκε η καλύτερη ώρα για δημοσίευση</li><li>Προστέθηκαν πίνακας ελέγχου και γραφήματα ιστορικού ανάπτυξης</li><li>Προστέθηκε γραφικό στοιχείο παρακολούθησης ακολούθων</li></ul>"
   ],
   "it": [
     "<b>Novità</b>",
-    "<ul><li>Bug principali risolti</li><li>Problema con le Storie risolto</li><li>Problema di sincronizzazione dell'interazione risolto</li><li>Nuove richieste inviate</li><li>Migliorato il momento migliore para pubblicare</li><li>Aggiunti dashboard e grafici della cronologia di crescita</li><li>Aggiunto widget per il monitoraggio dei follower</li></ul>"
+    "<ul><li>Risolti bug importanti</li><li>Risolto problema con le storie</li><li>Risolto problema di sincronizzazione dei follower</li><li>Risolto problema di sincronizzazione delle interazioni</li><li>Migliorate le nuove richieste inviate</li><li>Ottimizzato l'orario migliore per pubblicare</li><li>Aggiunti dashboard e grafici della cronologia di crescita</li><li>Aggiunto widget per il monitoraggio dei follower</li></ul>"
   ],
   "es": [
-    "<b>Qué hay de nuevo</b>",
-    "<ul><li>Errores mayores corregidos</li><li>Problema de Historias corregido</li><li>Problema de sincronización de interacción corregido</li><li>Nuevas solicitudes enviadas</li><li>Mejor hora para publicar mejorada</li><li>Panel y gráficos de historial de crecimiento añadidos</li><li>Widget de seguimiento de seguidores añadido</li></ul>"
+    "<b>Novedades</b>",
+    "<ul><li>Errores importantes corregidos</li><li>Problema con las historias solucionado</li><li>Problema de sincronización de seguidores solucionado</li><li>Problema de sincronización de interacciones solucionado</li><li>Nuevas solicitudes enviadas mejoradas</li><li>Mejor hora para publicar optimizada</li><li>Panel y gráficos del historial de crecimiento añadidos</li><li>Widget de seguimiento de seguidores añadido</li></ul>"
   ],
   "et": [
-    "<b>Mis uut</b>",
-    "<ul><li>Suured vead parandatud</li><li>Lugude probleem lahendatud</li><li>Suhtluse sünkroonimise probleem lahendatud</li><li>Uued saadetud taotlused</li><li>Täiustatud parim aeg postitamiseks</li><li>Kasvuajaloo töölaud ja graafikud lisatud</li><li>Jälgijate jälgimise vidin lisatud</li></ul>"
+    "<b>Mis on uut</b>",
+    "<ul><li>Suuremad vead parandatud</li><li>Lugude probleem parandatud</li><li>Jälgijate sünkroonimise probleem parandatud</li><li>Interaktsioonide sünkroonimise probleem parandatud</li><li>Uusi saadetud taotlusi täiustatud</li><li>Täiustatud parim aeg postitamiseks</li><li>Lisatud kasvuajaloo töölaud ja diagrammid</li><li>Lisatud jälgijate jälgimise vidin</li></ul>"
   ],
   "cs": [
     "<b>Co je nového</b>",
-    "<ul><li>Opraveny hlavní chyby</li><li>Opraven problém s Příběhy</li><li>Opraven problém se synchronizací interakcí</li><li>Nové odeslané žádosti</li><li>Vylepšen nejlepší čas pro zveřejnění</li><li>Přidán řídicí panel a grafy historie růstu</li><li>Přidán widget pro sledování sledujících</li></ul>"
+    "<ul><li>Opraveny závažné chyby</li><li>Opraven problém s příběhy</li><li>Opraven problém se synchronizací sledujících</li><li>Opraven problém se synchronizací interakcí</li><li>Vylepšeny nové odeslané žádosti</li><li>Vylepšen nejlepší čas pro zveřejnění</li><li>Přidán přehled historie růstu a grafy</li><li>Přidán widget pro sledování sledujících</li></ul>"
   ],
   "eu": [
     "<b>Zer berri</b>",
-    "<ul><li>Akats nagusiak konponduta</li><li>Istorioen arazoa konponduta</li><li>Interakzioaren sinkronizazio arazoa konponduta</li><li>Bikitako eskaera berriak</li><li>Argitaratzeko unerik onena hobetuta</li><li>Hazkundearen historiaren panela eta diagramak gehituta</li><li>Jarraitzaileen jarraipena egiteko widget-a gehituta</li></ul>"
+    "<ul><li>Akats nagusiak konpondu dira</li><li>Istorioen arazoa konpondu da</li><li>Jarraitzaileen sinkronizazio-arazoa konpondu da</li><li>Interakzioen sinkronizazio-arazoa konpondu da</li><li>Bidalitako eskaera berriak hobetu dira</li><li>Argitaratzeko unerik onena hobetu da</li><li>Hazkunde-historiaren aginte-panela eta grafikoak gehitu dira</li><li>Jarraitzaileen jarraipenerako widgeta gehitu da</li></ul>"
   ],
   "ar": [
     "<b>ما الجديد</b>",
-    "<ul><li>تم إصلاح الأخطاء الرئيسية</li><li>تم إصلاح مشكلة القصص</li><li>تم إصلاح مشكلة مزامنة التفاعل</li><li>طلبات مرسلة جديدة</li><li>تحسين أفضل وقت للنشر</li><li>تم إضافة لوحة تحكم ورسوم بيانية لسجل النمو</li><li>تم إضافة أداة تتبع المتابعين</li></ul>"
+    "<ul><li>إصلاح الأخطاء الرئيسية</li><li>إصلاح مشكلة القصص</li><li>إصلاح مشكلة مزامنة المتابعين</li><li>إصلاح مشكلة مزامنة التفاعلات</li><li>تحسين الطلبات المرسلة الجديدة</li><li>تحسين أفضل وقت للنشر</li><li>إضافة لوحة معلومات ورسوم بيانية لسجل النمو</li><li>إضافة أداة تتبع المتابعين</li></ul>"
   ],
   "vi": [
-    "<b>Có gì mới</b>",
-    "<ul><li>Đã sửa các lỗi lớn</li><li>Đã sửa lỗi về Tin (Stories)</li><li>Đã sửa lỗi đồng bộ hóa tương tác</li><li>Yêu cầu đã gửi mới</li><li>Cải thiện thời gian tốt nhất để đăng bài</li><li>Đã thêm bảng điều khiển và biểu đồ lịch sử tăng trưởng</li><li>Đã thêm tiện ích theo dõi người theo dõi</li></ul>"
+    "<b>Tính năng mới</b>",
+    "<ul><li>Đã sửa các lỗi nghiêm trọng</li><li>Đã sửa sự cố tin (Stories)</li><li>Đã sửa sự cố đồng bộ hóa người theo dõi</li><li>Đã sửa sự cố đồng bộ hóa tương tác</li><li>Cải thiện yêu cầu đã gửi mới</li><li>Nâng cao thời điểm đăng bài tốt nhất</li><li>Đã thêm bảng điều khiển và biểu đồ lịch sử tăng trưởng</li><li>Đã thêm tiện ích theo dõi người theo dõi</li></ul>"
   ],
   "th": [
     "<b>มีอะไรใหม่</b>",
-    "<ul><li>แก้ไขข้อผิดพลาดหลักแล้ว</li><li>แก้ไขปัญหาเกี่ยวกับสตอรี่แล้ว</li><li>แก้ไขปัญหาการซิงค์การโต้ตอบแล้ว</li><li>คำขอที่ส่งใหม่</li><li>ปรับปรุงเวลาที่ดีที่สุดในการโพสต์</li><li>เพิ่มแดชบอร์ดและแผนภูมิประวัติการเติบโตแล้ว</li><li>เพิ่มวิดเจ็ตติดตามผู้ติดตามแล้ว</li></ul>"
+    "<ul><li>แก้ไขข้อบกพร่องที่สำคัญแล้ว</li><li>แก้ไขปัญหาสตอรี่แล้ว</li><li>แก้ไขปัญหาการซิงค์ผู้ติดตามแล้ว</li><li>แก้ไขปัญหาการซิงค์การโต้ตอบแล้ว</li><li>ปรับปรุงคำขอที่ส่งใหม่</li><li>ปรับปรุงเวลาที่ดีที่สุดในการโพสต์</li><li>เพิ่มแดชบอร์ดและแผนภูมิประวัติการเติบโต</li><li>เพิ่มวิดเจ็ตติดตามผู้ติดตาม</li></ul>"
   ],
   "ja": [
     "<b>新機能</b>",
-    "<ul><li>主要なバグの修正</li><li>ストーリーズの問題の修正</li><li>インタラクション同期の問題の修正</li><li>新しい送信済みリクエスト</li><li>投稿に最適な時間の改善</li><li>成長履歴ダッシュボードとチャートの追加</li><li>フォロワートラッカーウィジェットの追加</li></ul>"
+    "<ul><li>重大なバグを修正</li><li>ストーリーズの不具合を修正</li><li>フォロワー同期の不具合を修正</li><li>インタラクション同期の不具合を修正</li><li>新規送信済みリクエストを改善</li><li>最適な投稿時間の精度を向上</li><li>成長履歴ダッシュボードとグラフを追加</li><li>フォロワー追跡ウィジェットを追加</li></ul>"
   ],
   "az": [
     "<b>Yeniliklər</b>",
-    "<ul><li>Əsas xətalar düzəldildi</li><li>Hekayələr problemi düzəldildi</li><li>Qarşılıqlı əlaqə sinxronizasiyası problemi düzəldildi</li><li>Yeni göndərilən sorğular</li><li>Paylaşım üçün ən yaxşı vaxt təkmilləşdirildi</li><li>Böyümə tarixi paneli və qrafikləri əlavə edildi</li><li>Izləyici izləmə vidceti əlavə edildi</li></ul>"
+    "<ul><li>Əsas xətalar düzəldildi</li><li>Hekayələr problemi həll edildi</li><li>İzləyicilərin sinxronizasiya problemi həll edildi</li><li>Qarşılıqlı əlaqələrin sinxronizasiya problemi həll edildi</li><li>Yeni göndərilmiş sorğular təkmilləşdirildi</li><li>Paylaşım üçün ən yaxşı vaxt təkmilləşdirildi</li><li>Artım tarixçəsi idarə paneli və qrafiklər əlavə edildi</li><li>İzləyici izləmə vidceti əlavə edildi</li></ul>"
   ],
   "fa": [
-    "<b>چه خبر</b>",
-    "<ul><li>باگ‌های بزرگ برطرف شدند</li><li>مشکل استوری‌ها برطرف شد</li><li>مشکل همگام‌سازی تعامل برطرف شد</li><li>درخواست‌های ارسال‌شده جدید</li><li>بهبود بهترین زمان برای پست گذاشتن</li><li>داشبورد و نمودارهای تاریخچه رشد اضافه شدند</li><li>ویجت ردیاب دنبال‌کنندگان اضافه شد</li></ul>"
+    "<b>تغییرات جدید</b>",
+    "<ul><li>رفع اشکالات اساسی</li><li>رفع مشکل استوری‌ها</li><li>رفع مشکل همگام‌سازی دنبال‌کنندگان</li><li>رفع مشکل همگام‌سازی تعاملات</li><li>بهبود درخواست‌های ارسال‌شده جدید</li><li>بهبود بهترین زمان برای انتشار پست</li><li>افزودن داشبورد و نمودارهای تاریخچه رشد</li><li>افزودن ویجت ردیاب دنبال‌کنندگان</li></ul>"
   ],
   "pl": [
     "<b>Co nowego</b>",
-    "<ul><li>Naprawiono główne błędy</li><li>Naprawiono problem z Relacjami</li><li>Naprawiono problem z synchronizacją interakcji</li><li>Nowe wysłane zaproszenia</li><li>Ulepszono najlepszy czas na publikację</li><li>Dodano panel i wykresy historii wzrostu</li><li>Dodano widżet śledzenia obserwujących</li></ul>"
+    "<ul><li>Naprawiono poważne błędy</li><li>Naprawiono problem z relacjami</li><li>Naprawiono problem z synchronizacją obserwujących</li><li>Naprawiono problem z synchronizacją interakcji</li><li>Ulepszono nowe wysłane prośby</li><li>Ulepszono najlepszy czas na publikację</li><li>Dodano panel historii wzrostu i wykresy</li><li>Dodano widżet śledzenia obserwujących</li></ul>"
   ],
   "da": [
-    "<b>Hvad er nyt</b>",
-    "<ul><li>Større fejl rettet</li><li>Problem med Historier rettet</li><li>Problem med interaktionssynkronisering rettet</li><li>Nye sendte anmodninger</li><li>Forbedret bedste tidspunkt at opslå</li><li>Kontrolpanel og diagrammer for væksthistorik tilføjet</li><li>Widget til sporing af følgere tilføjet</li></ul>"
+    "<b>Nyheder</b>",
+    "<ul><li>Væsentlige fejl rettet</li><li>Problem med historier rettet</li><li>Problem med synkronisering af følgere rettet</li><li>Problem med synkronisering af interaktioner rettet</li><li>Nye sendte anmodninger forbedret</li><li>Forbedret bedste tidspunkt at opslå</li><li>Dashboard og diagrammer for væksthistorik tilføjet</li><li>Widget til sporing af følgere tilføjet</li></ul>"
   ],
   "ro": [
     "<b>Ce este nou</b>",
-    "<ul><li>Bugs majore rezolvate</li><li>Problema cu Poveștile rezolvată</li><li>Problema de sincronizare a interacțiunii rezolvată</li><li>Cereri noi trimise</li><li>Cel mai bun moment pentru a publica îmbunătățit</li><li>Tablou de bord și grafice pentru istoricul de creștere adăugate</li><li>Widget pentru urmărirea urmăritorilor adăugat</li></ul>"
+    "<ul><li>Erori majore remediate</li><li>Problemă cu poveștile remediată</li><li>Problemă de sincronizare a urmăritorilor remediată</li><li>Problemă de sincronizare a interacțiunilor remediată</li><li>Solicitări noi trimise îmbunătățite</li><li>Cel mai bun moment pentru a posta îmbunătățit</li><li>Tablou de bord și grafice pentru istoricul creșterii adăugate</li><li>Widget de urmărire a urmăritorilor adăugat</li></ul>"
   ],
   "nl": [
     "<b>Wat is er nieuw</b>",
-    "<ul><li>Belangrijke fouten opgelost</li><li>Probleem met verhalen opgelost</li><li>Probleem met interactiesynchronisatie opgelost</li><li>Nieuwe verzonden verzoeken</li><li>Beste tijd om te posten verbeterd</li><li>Groeigeschiedenisdashboard en grafieken toegevoegd</li><li>Volgers-trackerwidget toegevoegd</li></ul>"
+    "<ul><li>Grote bugs opgelost</li><li>Probleem met verhalen opgelost</li><li>Probleem met synchronisatie van volgers opgelost</li><li>Probleem met synchronisatie van interacties opgelost</li><li>Nieuwe verzonden verzoeken verbeterd</li><li>Beste tijd om te plaatsen verbeterd</li><li>Dashboard en grafieken voor groeigeschiedenis toegevoegd</li><li>Widget voor volgerstracker toegevoegd</li></ul>"
   ],
   "tr": [
     "<b>Yenilikler</b>",
-    "<ul><li>Önemli Hatalar Düzeltildi</li><li>Hikayeler Sorunu Düzeltildi</li><li>Etkileşim Senkronizasyon Sorunu Düzeltildi</li><li>Yeni Gönderilen İstekler</li><li>Geliştirilmiş Paylaşım İçin En İyi Zaman</li><li>Büyüme Geçmişi Paneli ve Grafikleri Eklendi</li><li>Takipçi Takip Aracı Eklendi</li></ul>"
+    "<ul><li>Önemli hatalar düzeltildi</li><li>Hikayeler sorunu giderildi</li><li>Takipçi senkronizasyonu sorunu giderildi</li><li>Etkileşim senkronizasyonu sorunu giderildi</li><li>Yeni gönderilen istekler iyileştirildi</li><li>En iyi paylaşım zamanı geliştirildi</li><li>Büyüme geçmişi panosu ve grafikleri eklendi</li><li>Takipçi takip widget'ı eklendi</li></ul>"
   ]
 
   }
