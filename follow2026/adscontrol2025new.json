@@ -1,18 +1,115 @@
 {
+    "listUpdateThresholdHours": 6,
+    
   "adConfig": {
-    "show_native_login": false,
+  "show_native_login": false,
     "show_native_main": true,
     "show_native_list": true,
     "show_native_interaction": true,
     "show_native_post": true,
-    "show_native_fullscreen_image": true,
-    
+    "show_native_best_time": true,
+    "show_native_downloaded_public": true,
+    "show_native_engagement": true,
+    "show_native_growth_history": true,
+    "show_native_profile_audit": true,
+    "show_native_fullscreen_image": false,
+    "show_native_view_stories": true,
+
     "show_native_feed_ad": false,
     "show_admob_native_ad": true,
     "show_admob_collapsible_banner": true,
     "show_custom_native_ad": false,
     "show_startapp_banner": false,
+    "show_admob_banner": false,
 
+
+      "main": {
+        "show_native_feed_ad": false,
+        "show_admob_native_ad": false,
+        "show_admob_collapsible_banner": true,
+        "show_custom_native_ad": false,
+        "show_admob_banner": false
+      },
+      "list": {
+        "show_native_feed_ad": false,
+        "show_admob_native_ad": false,
+        "show_admob_collapsible_banner": false,
+        "show_custom_native_ad": false,
+        "show_admob_banner": true
+      },
+      "post": {
+        "show_native_feed_ad": false,
+        "show_admob_native_ad": false,
+        "show_admob_collapsible_banner": true,
+        "show_custom_native_ad": false,
+        "show_admob_banner": false
+      },
+      "interaction": {
+        "show_native_feed_ad": false,
+        "show_admob_native_ad": false,
+        "show_admob_collapsible_banner": true,
+        "show_custom_native_ad": false,
+        "show_admob_banner": false
+      },
+      "best_time": {
+        "show_native_feed_ad": false,
+        "show_admob_native_ad": false,
+        "show_admob_collapsible_banner": true,
+        "show_custom_native_ad": false,
+        "show_admob_banner": false
+      },
+      "downloaded_public": {
+        "show_native_feed_ad": false,
+        "show_admob_native_ad": false,
+        "show_admob_collapsible_banner": true,
+        "show_custom_native_ad": false,
+        "show_admob_banner": false
+      },
+      "engagement": {
+        "show_native_feed_ad": false,
+        "show_admob_native_ad": false,
+        "show_admob_collapsible_banner": true,
+        "show_custom_native_ad": false,
+        "show_admob_banner": false
+      },
+      "growth_history": {
+        "show_native_feed_ad": false,
+        "show_admob_native_ad": false,
+        "show_admob_collapsible_banner": true,
+        "show_custom_native_ad": false,
+        "show_admob_banner": false
+      },
+      "profile_audit": {
+        "show_native_feed_ad": false,
+        "show_admob_native_ad": false,
+        "show_admob_collapsible_banner": true,
+        "show_custom_native_ad": false,
+        "show_admob_banner": false
+      },
+      "full_screen_image": {
+        "show_native_feed_ad": false,
+        "show_admob_native_ad": false,
+        "show_admob_collapsible_banner": true,
+        "show_custom_native_ad": false,
+        "show_admob_banner": false
+      },
+      "view_stories": {
+        "show_native_feed_ad": false,
+        "show_admob_native_ad": true,
+        "show_custom_native_ad": false,
+        "show_admob_banner": false
+      },
+    
+
+
+    "enable_follower_notifications": true, // Enables the background follower check and its reminder notifications
+  "follower_check_interval_hours": 8, // Runs the worker every 8 hours (allowed range: 1–168)
+
+
+    // Controls how many days after first install before showing the rating dialog on backpress.
+    // Default is 2 days. Set to 0 to show immediately on Day 1.
+    "rate_dialog_delay_days": 2,
+    
       "free_first_followers_sync": true,     // First Followers sync skips the reward ad
     "free_first_interactions_sync": true, // First Interactions sync skips the reward ad
     "free_first_all_sync": true,            // First Sync All skips the reward ad
@@ -45,8 +142,12 @@
     // Master toggle: true to allow story fetching from network/database, false to disable all story loading
     "enable_story_loading": true,
     
-    // Cooldown in minutes between background Instagram story API refreshes (prevents rate limits / 429 errors)
+     "_comment_story_refresh_cooldown_minutes": "Automatic fetch cooldown, in minutes OLD. ",
     "story_refresh_cooldown_minutes": 5,
+
+    
+    "_comment_story_manual_refresh_cooldown_minutes": "Manual refresh cooldown, in minutes. 60 means one hour.",
+    "story_manual_refresh_cooldown_minutes": 60,
 
 
     // Set to false to disable asking notification permission on app entry
