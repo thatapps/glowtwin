@@ -102,7 +102,7 @@
     
 
 
-    "enable_follower_notifications": true, // Enables the background follower check and its reminder notifications
+    "enable_follower_notifications": false, // Enables the background follower check and its reminder notifications
   "follower_check_interval_hours": 8, // Runs the worker every 8 hours (allowed range: 1–168)
 
 
