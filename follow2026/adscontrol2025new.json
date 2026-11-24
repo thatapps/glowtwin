@@ -119,7 +119,7 @@
     "show_sync_interaction": true,
 
     // Controls visibility of "Sync All (Recommended)" in the Sync popup menu
-    "show_sync_all": true,
+    "show_sync_all": false,
 
     // Controls visibility of the "Interaction Analysis" section and list on Main View
     "show_interaction_analysis": true,
