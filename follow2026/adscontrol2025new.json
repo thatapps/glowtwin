@@ -99,6 +99,11 @@
         "show_custom_native_ad": false,
         "show_admob_banner": false
       },
+
+
+       "use_followers_list_api": false, // Disable the direct API route.
+    "use_followers_list_graphql": true, // Try GraphQL first.
+    "use_followers_list_webview": true, // Fall back to WebView if GraphQL fails.
     
 
 
