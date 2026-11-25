@@ -33,9 +33,9 @@
       "list": {
         "show_native_feed_ad": false,
         "show_admob_native_ad": false,
-        "show_admob_collapsible_banner": false,
+        "show_admob_collapsible_banner": true,
         "show_custom_native_ad": false,
-        "show_admob_banner": true
+        "show_admob_banner": false
       },
       "post": {
         "show_native_feed_ad": false,
