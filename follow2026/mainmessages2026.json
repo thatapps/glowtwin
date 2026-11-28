@@ -1,0 +1,84 @@
+{
+  "main_messages": [
+    {
+      "enabled": false,
+      "id": "sync_issue_nov_2026",
+      "style": "warning",
+      "dismissible": true,
+      "priority": {
+        "enabled": true,
+        "value": 10
+      },
+      "version_filter": {
+        "enabled": false,
+        "min_app_version": 120,
+        "max_app_version": 150
+      },
+      "actions": {
+        "learn_more": {
+          "enabled": false,
+          "text": "Learn more",
+          "url": "https://example.com/sync-help"
+        },
+        "contact_us": {
+          "enabled": true,
+          "text": "Contact us"
+        }
+      },
+      "languages": {
+        "en": {
+          "title": "Sync issue",
+          "message": "Sync may be delayed. Please try again later.",
+          "learn_more_text": "Learn more",
+          "contact_us_text": "Contact us"
+        },
+        "hi": {
+          "title": "सिंक समस्या",
+          "message": "सिंक में देरी हो सकती है। कृपया बाद में प्रयास करें।",
+          "learn_more_text": "और जानें",
+          "contact_us_text": "हमसे संपर्क करें"
+        }
+      }
+    },
+    {
+      "enabled": false,
+      "id": "maintenance_nov_2026",
+      "style": "info",
+      "dismissible": true,
+      "priority": {
+        "enabled": true,
+        "value": 5
+      },
+      "version_filter": {
+        "enabled": false,
+        "min_app_version": 0,
+        "max_app_version": 0
+      },
+      "actions": {
+        "learn_more": {
+          "enabled": false,
+          "text": "Learn more",
+          "url": "https://example.com/maintenance"
+        },
+        "contact_us": {
+          "enabled": true,
+          "text": "Contact us"
+        }
+      },
+      "languages": {
+        "en": {
+          "title": "Maintenance notice",
+          "message": "Some features may be unavailable during maintenance.",
+          "learn_more_text": "Learn more",
+          "contact_us_text": "Contact us"
+        },
+        "hi": {
+          "title": "रखरखाव सूचना",
+          "message": "रखरखाव के दौरान कुछ सुविधाएँ उपलब्ध नहीं हो सकती हैं।",
+          "learn_more_text": "और जानें",
+          "contact_us_text": "हमसे संपर्क करें"
+        }
+      }
+    }
+  ]
+}
