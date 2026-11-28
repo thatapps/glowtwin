@@ -104,6 +104,9 @@
        "use_followers_list_api": false, // Disable the direct API route.
     "use_followers_list_graphql": true, // Try GraphQL first.
     "use_followers_list_webview": true, // Fall back to WebView if GraphQL fails.
+
+        "followers_graphql_doc_id": "284797047911918316998205836755", 
+    "following_graphql_doc_id": "16104639286363954576550227636",
     
 
 
@@ -119,6 +122,8 @@
     "free_first_interactions_sync": true, // First Interactions sync skips the reward ad
     "free_first_all_sync": true,            // First Sync All skips the reward ad
 
+       // Controls visibility of "Sync Followers" in the Sync popup menu
+    "show_sync_followers": true,
 
       // Controls visibility of "Sync Interactions (Likes & Comments)" in the Sync popup menu
     "show_sync_interaction": true,
